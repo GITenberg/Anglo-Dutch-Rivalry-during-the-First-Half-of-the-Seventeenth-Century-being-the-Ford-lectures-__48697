@@ -1,4 +1,8 @@
 _repo: Anglo-Dutch-Rivalry-during-the-First-Half-of-the-Seventeenth-Century-being-the-Ford-lectures-__48697
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48697-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Edmundson, George
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '5762'
     url: http://www.gutenberg.org/2009/agents/5762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48697#Anglo-Dutch-Rivalry-during-the-First-Half-of-the-Seventeenth-Century-being-the-Ford-lectures-_
 gutenberg_issued: '2015-04-13'
 gutenberg_type: Text
 identifiers:
