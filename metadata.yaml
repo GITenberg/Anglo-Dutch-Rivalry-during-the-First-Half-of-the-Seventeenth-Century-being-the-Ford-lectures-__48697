@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Anglo-Dutch Rivalry during the First Half of the Seventeenth Century
 
   being the Ford lectures delivered at Oxford in 1910'
